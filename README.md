@@ -1,1 +1,1 @@
-## TRY Echo Framework (GO)
+## Try Echo Framework (GO)
